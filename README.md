@@ -13,7 +13,7 @@ itch.io link
 ## Built with
 - Godot
 - GS script
-- 
+  
 ## Screenshots
 
 ## Credits
