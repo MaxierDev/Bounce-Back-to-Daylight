@@ -2,7 +2,7 @@
 A platformer game made in Godot where users are a cat and have to bounce a ball to hit a lever for a ladder to appear to go to the next level. This made for the theme: Bounce Back and it was made in Haven Hackclub by Andrew Njoo and Miranda Nguyen.
 
 ## Live demo
-itch.io link
+https://maxiergames.itch.io/bounce-back-to-daylight
 
 ## Features
 - WASD + Arrows keys to move cat
